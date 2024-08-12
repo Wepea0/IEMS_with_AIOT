@@ -1,0 +1,19 @@
+
+# networkx==3.1
+# torch==2.3.1
+# torchaudio==2.3.1
+# torchvision==0.18.1
+# scikit-learn
+# gymnasium
+# nrel-pysam
+# simplejson
+# CityLearn
+matplotlib
+seaborn
+stable-baselines3 
+requests
+tqdm
+pymysql
+urequests
+jupyter 
+ipywidgets

@@ -1,0 +1,6 @@
+HOME=/root
+LOGNAME=root
+PATH=/usr/bin:/bin
+LANG=C.UTF-8
+SHELL=/bin/sh
+PWD=/root

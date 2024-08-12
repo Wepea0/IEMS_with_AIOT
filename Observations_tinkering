@@ -1,0 +1,8 @@
+indoor_dry_bulb_temperature_delta
+electricity_pricing
+electrical_storage_soc
+solar_generation
+non_shiftable_load
+indoor_dry_bulb_temperature
+outdoor_dry_bulb_temperature
+day_type

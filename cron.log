@@ -1,0 +1,2278 @@
+/bin/sh: 1: /usr/bin/jupyter: not found
+/bin/sh: 1: /usr/bin/jupyter: not found
+/home/wepea2/capstone/sinergym/drl_scripts/sac_attempt_3.ipynb: 8291: Syntax error: end of file unexpected (expecting "}")
+/home/wepea2/capstone/sinergym/drl_scripts/sac_attempt_3.ipynb: 8291: Syntax error: end of file unexpected (expecting "}")
+/home/wepea2/capstone/sinergym/drl_scripts/sac_attempt_3.ipynb: 8291: Syntax error: end of file unexpected (expecting "}")
+/home/wepea2/capstone/sinergym/drl_scripts/sac_attempt_3.ipynb: 8302: Syntax error: end of file unexpected (expecting "}")
+/home/wepea2/capstone/sinergym/drl_scripts/sac_attempt_3.ipynb: 8302: Syntax error: end of file unexpected (expecting "}")
+/bin/sh: 1: /usr/bin/jupyter: not found
+/bin/sh: 1: /usr/bin/jupyter: not found
+/bin/sh: 1: /usr/bin/jupyter: not found
+/bin/sh: 1: /usr/bin/jupyter: not found
+/bin/sh: 1: /usr/bin/jupyter: not found
+/bin/sh: 1: /usr/bin/jupyter: not found
+/bin/sh: 1: /usr/bin/jupyter: not found
+/bin/sh: 1: nbconvert: not found
+/bin/sh: 1: nbconvert: not found
+/bin/sh: 1: nbconvert: not found
+/bin/sh: 1: nbconvert: not found
+/bin/sh: 1: nbconvert: not found
+/bin/sh: 1: nbconvert: not found
+/bin/sh: 1: nbconvert: not found
+/bin/sh: 1: nbconvert: not found
+/bin/sh: 1: nbconvert: not found
+/bin/sh: 1: jupyter: not found
+/bin/sh: 1: jupyter: not found
+Traceback (most recent call last):
+  File "/home/wepea2/.local/bin/jupyter", line 5, in <module>
+    from jupyter_core.command import main
+ModuleNotFoundError: No module named 'jupyter_core'
+Traceback (most recent call last):
+  File "/home/wepea2/.local/bin/jupyter", line 5, in <module>
+    from jupyter_core.command import main
+ModuleNotFoundError: No module named 'jupyter_core'
+Traceback (most recent call last):
+  File "/home/wepea2/.local/bin/jupyter", line 5, in <module>
+    from jupyter_core.command import main
+ModuleNotFoundError: No module named 'jupyter_core'
+Traceback (most recent call last):
+  File "/home/wepea2/.local/bin/jupyter", line 5, in <module>
+    from jupyter_core.command import main
+ModuleNotFoundError: No module named 'jupyter_core'
+Traceback (most recent call last):
+  File "/home/wepea2/.local/bin/jupyter", line 5, in <module>
+    from jupyter_core.command import main
+ModuleNotFoundError: No module named 'jupyter_core'
+Traceback (most recent call last):
+  File "/home/wepea2/.local/bin/jupyter", line 5, in <module>
+    from jupyter_core.command import main
+ModuleNotFoundError: No module named 'jupyter_core'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+ERROR: Invalid requirement: 'torch torchvision torchaudio' (from line 3 of /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt)
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Usage: __main__.py [options]
+
+ERROR: Invalid requirement: stable-baselines3 --no-deps
+__main__.py: error: no such option: --no-deps
+
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Usage: __main__.py [options]
+
+ERROR: Invalid requirement: stable-baselines3 --no-deps
+__main__.py: error: no such option: --no-deps
+
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Collecting networkx==3.1
+  Downloading networkx-3.1-py3-none-any.whl (2.1 MB)
+Collecting torch==2.3.1
+  Downloading torch-2.3.1-cp38-cp38-manylinux1_x86_64.whl (779.1 MB)
+Collecting networkx==3.1
+  Using cached networkx-3.1-py3-none-any.whl (2.1 MB)
+Collecting torch==2.3.1
+Collecting torchaudio==2.3.1
+  Downloading torchaudio-2.3.1-cp38-cp38-manylinux1_x86_64.whl (3.3 MB)
+Collecting torchvision==0.18.1
+  Downloading torchvision-0.18.1-cp38-cp38-manylinux1_x86_64.whl (7.0 MB)
+Collecting scikit-learn
+  Downloading scikit_learn-1.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (11.1 MB)
+/home/wepea2/capstone/sinergym/drl_scripts/cron_script.sh: line 13:  9140 Killed                  $PYTHON_EXECUTABLE -m pip install -r $REQUIREMENTS_FILE
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 70, in <module>
+    from ipywidgets import Button, HTML
+ModuleNotFoundError: No module named 'ipywidgets'
+Collecting gymnasium
+  Downloading gymnasium-0.29.1-py3-none-any.whl (953 kB)
+Collecting nrel-pysam
+  Downloading NREL_PySAM-5.1.0-cp38-cp38-manylinux2014_x86_64.whl (49.1 MB)
+Requirement already satisfied: simplejson in /usr/lib/python3/dist-packages (from -r /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt (line 9)) (3.16.0)
+Collecting CityLearn
+  Downloading CityLearn-2.1.2-py3-none-any.whl (22.7 MB)
+Collecting matplotlib
+  Downloading matplotlib-3.7.5-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (9.2 MB)
+Collecting seaborn
+  Downloading seaborn-0.13.2-py3-none-any.whl (294 kB)
+Collecting stable-baselines3
+  Downloading stable_baselines3-2.3.2-py3-none-any.whl (182 kB)
+Requirement already satisfied: requests in /usr/lib/python3/dist-packages (from -r /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt (line 14)) (2.22.0)
+Collecting beautifulsoup4
+  Downloading beautifulsoup4-4.12.3-py3-none-any.whl (147 kB)
+Collecting tqdm
+  Downloading tqdm-4.66.5-py3-none-any.whl (78 kB)
+Collecting pymysql
+  Downloading PyMySQL-1.1.1-py3-none-any.whl (44 kB)
+Collecting urequests
+  Downloading urequests-0.1.2.tar.gz (3.1 kB)
+Collecting jupyter
+  Downloading jupyter-1.0.0-py2.py3-none-any.whl (2.7 kB)
+Collecting ipywidgets
+  Downloading ipywidgets-8.1.3-py3-none-any.whl (139 kB)
+Collecting nvidia-cudnn-cu12==8.9.2.26; platform_system == "Linux" and platform_machine == "x86_64"
+  Downloading nvidia_cudnn_cu12-8.9.2.26-py3-none-manylinux1_x86_64.whl (731.7 MB)
+Collecting networkx==3.1
+  Using cached networkx-3.1-py3-none-any.whl (2.1 MB)
+Collecting torch==2.3.1
+/home/wepea2/capstone/sinergym/drl_scripts/cron_script.sh: line 13:  9460 Killed                  $PYTHON_EXECUTABLE -m pip install -r $REQUIREMENTS_FILE
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Collecting networkx==3.1
+  Using cached networkx-3.1-py3-none-any.whl (2.1 MB)
+Collecting torch==2.3.1
+/home/wepea2/capstone/sinergym/drl_scripts/cron_script.sh: line 13:  9611 Killed                  $PYTHON_EXECUTABLE -m pip install -r $REQUIREMENTS_FILE
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Collecting networkx==3.1
+  Using cached networkx-3.1-py3-none-any.whl (2.1 MB)
+Collecting torch==2.3.1
+/home/wepea2/capstone/sinergym/drl_scripts/cron_script.sh: line 13:  9744 Killed                  $PYTHON_EXECUTABLE -m pip install -r $REQUIREMENTS_FILE
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Collecting nvidia-nccl-cu12==2.20.5; platform_system == "Linux" and platform_machine == "x86_64"
+  Downloading nvidia_nccl_cu12-2.20.5-py3-none-manylinux2014_x86_64.whl (176.2 MB)
+Collecting networkx==3.1
+  Using cached networkx-3.1-py3-none-any.whl (2.1 MB)
+Collecting torch==2.3.1
+ERROR: Could not install packages due to an EnvironmentError: [Errno 28] No space left on device
+
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+/home/wepea2/capstone/sinergym/drl_scripts/cron_script.sh: line 13:  9851 Killed                  $PYTHON_EXECUTABLE -m pip install -r $REQUIREMENTS_FILE
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Collecting networkx==3.1
+  Using cached networkx-3.1-py3-none-any.whl (2.1 MB)
+Collecting torch==2.3.1
+/home/wepea2/capstone/sinergym/drl_scripts/cron_script.sh: line 13: 10375 Killed                  $PYTHON_EXECUTABLE -m pip install -r $REQUIREMENTS_FILE
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Collecting matplotlib
+  Using cached matplotlib-3.7.5-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (9.2 MB)
+Collecting seaborn
+  Using cached seaborn-0.13.2-py3-none-any.whl (294 kB)
+Collecting stable-baselines3
+  Using cached stable_baselines3-2.3.2-py3-none-any.whl (182 kB)
+Requirement already satisfied: requests in /usr/lib/python3/dist-packages (from -r /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt (line 14)) (2.22.0)
+Collecting tqdm
+  Using cached tqdm-4.66.5-py3-none-any.whl (78 kB)
+Collecting pymysql
+  Using cached PyMySQL-1.1.1-py3-none-any.whl (44 kB)
+Collecting urequests
+  Using cached urequests-0.1.2.tar.gz (3.1 kB)
+Collecting jupyter
+  Using cached jupyter-1.0.0-py2.py3-none-any.whl (2.7 kB)
+Collecting ipywidgets
+  Using cached ipywidgets-8.1.3-py3-none-any.whl (139 kB)
+Collecting pillow>=6.2.0
+  Downloading pillow-10.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.4 MB)
+Collecting python-dateutil>=2.7
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Collecting numpy<2,>=1.20
+  Downloading numpy-1.24.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.3 MB)
+Collecting importlib-resources>=3.2.0; python_version < "3.10"
+  Downloading importlib_resources-6.4.0-py3-none-any.whl (38 kB)
+Collecting packaging>=20.0
+  Downloading packaging-24.1-py3-none-any.whl (53 kB)
+Collecting pyparsing>=2.3.1
+  Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+Collecting fonttools>=4.22.0
+  Downloading fonttools-4.53.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.7 MB)
+Collecting kiwisolver>=1.0.1
+  Downloading kiwisolver-1.4.5-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl (1.2 MB)
+Collecting cycler>=0.10
+  Downloading cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Collecting contourpy>=1.0.1
+  Downloading contourpy-1.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (301 kB)
+Collecting pandas>=1.2
+  Downloading pandas-2.0.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.4 MB)
+Collecting torch>=1.13
+  Downloading torch-2.4.0-cp38-cp38-manylinux1_x86_64.whl (797.2 MB)
+/home/wepea2/capstone/sinergym/drl_scripts/cron_script.sh: line 13: 10555 Killed                  $PYTHON_EXECUTABLE -m pip install -r $REQUIREMENTS_FILE
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 82, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+Collecting matplotlib
+  Using cached matplotlib-3.7.5-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (9.2 MB)
+Collecting seaborn
+  Using cached seaborn-0.13.2-py3-none-any.whl (294 kB)
+Collecting stable-baselines3
+  Using cached stable_baselines3-2.3.2-py3-none-any.whl (182 kB)
+Requirement already satisfied: requests in /usr/lib/python3/dist-packages (from -r /home/wepea2/capstone/sinergym/drl_scripts/requirements.txt (line 14)) (2.22.0)
+Collecting tqdm
+  Using cached tqdm-4.66.5-py3-none-any.whl (78 kB)
+Collecting pymysql
+  Using cached PyMySQL-1.1.1-py3-none-any.whl (44 kB)
+Collecting urequests
+  Using cached urequests-0.1.2.tar.gz (3.1 kB)
+Collecting jupyter
+  Using cached jupyter-1.0.0-py2.py3-none-any.whl (2.7 kB)
+Collecting ipywidgets
+  Using cached ipywidgets-8.1.3-py3-none-any.whl (139 kB)
+Collecting importlib-resources>=3.2.0; python_version < "3.10"
+  Using cached importlib_resources-6.4.0-py3-none-any.whl (38 kB)
+Collecting numpy<2,>=1.20
+  Using cached numpy-1.24.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.3 MB)
+Collecting kiwisolver>=1.0.1
+  Using cached kiwisolver-1.4.5-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl (1.2 MB)
+Collecting cycler>=0.10
+  Using cached cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Collecting fonttools>=4.22.0
+  Using cached fonttools-4.53.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.7 MB)
+Collecting packaging>=20.0
+  Using cached packaging-24.1-py3-none-any.whl (53 kB)
+Collecting contourpy>=1.0.1
+  Using cached contourpy-1.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (301 kB)
+Collecting pillow>=6.2.0
+  Using cached pillow-10.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.4 MB)
+Collecting python-dateutil>=2.7
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Collecting pyparsing>=2.3.1
+  Using cached pyparsing-3.1.2-py3-none-any.whl (103 kB)
+Collecting pandas>=1.2
+  Using cached pandas-2.0.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.4 MB)
+Collecting cloudpickle
+  Downloading cloudpickle-3.0.0-py3-none-any.whl (20 kB)
+Collecting torch>=1.13
+  Downloading torch-2.4.0-cp38-cp38-manylinux1_x86_64.whl (797.2 MB)
+/home/wepea2/capstone/sinergym/drl_scripts/cron_script.sh: line 13: 10824 Killed                  $PYTHON_EXECUTABLE -m pip install -r $REQUIREMENTS_FILE
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 82, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 82, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 82, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 74, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+/bin/sh: 1: /usr/lib/python3: Permission denied
+/bin/sh: 1: /usr/lib/python3: Permission denied
+/bin/sh: 1: /usr/lib/python3: Permission denied
+/bin/sh: 1: /usr/lib/python3: Permission denied
+/bin/sh: 1: /usr/lib/python3: Permission denied
+/bin/sh: 1: /home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: Permission denied
+/bin/sh: 1: /home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: Permission denied
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 60: import: not found
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 63: Syntax error: "(" unexpected
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 60: import: not found
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 63: Syntax error: "(" unexpected
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 60: import: not found
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 63: Syntax error: "(" unexpected
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 60: import: not found
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 63: Syntax error: "(" unexpected
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 60: import: not found
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 63: Syntax error: "(" unexpected
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 60: import: not found
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 63: Syntax error: "(" unexpected
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 60: import: not found
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 63: Syntax error: "(" unexpected
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 62: import: not found
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 65: Syntax error: "(" unexpected
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 62: import: not found
+/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py: 65: Syntax error: "(" unexpected
+Python executable path: /usr/bin/python3
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 91, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/home/wepea2/capstone/sinergym/drl_scripts/Integration_test.py", line 92, in <module>
+    import matplotlib.colors as mcolors
+ModuleNotFoundError: No module named 'matplotlib'
