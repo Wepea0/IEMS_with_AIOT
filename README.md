@@ -1,4 +1,3 @@
-# IEMS_with_AIOT
 # CityLearn Simulator and Predictor
 
 This project includes a CityLearn simulation and prediction system. It is designed to work with MQTT for data communication and requires weather data from Meteomatics via an API key.
